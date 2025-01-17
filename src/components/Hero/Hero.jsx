@@ -5,7 +5,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm saikrishna</h1>
+        <h1 className={styles.title}>Hi, I'm <br/>Pawan  Etukala</h1>
         <p className={styles.description}>
           Full Stack Developer fluent in React, HTML, CSS, Node.js, Express.js,
           MySQL, and MongoDB. Seamlessly weaving sleek front-end design with
@@ -13,7 +13,7 @@ export const Hero = () => {
           delivering web experiences that captivate and innovate
         </p>
         <a
-          href="https://drive.google.com/file/d/1z6F5XLRqz4FEZKuMf-hEqFe82FjNlD5c/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1X8niWjQLujEoKvdZuT9hhBPAwnSRJjyU/view?usp=sharing"
           className={styles.contactBtn}
           download={true}
         >

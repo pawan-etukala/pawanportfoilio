@@ -1,11 +1,11 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "Boostrap",
+    "imageSrc": "skills/bootstrap.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Tailwind",
+    "imageSrc": "skills/Figma-logo.svg.png"
   },
   {
     "title": "React",
@@ -28,7 +28,7 @@
     "imageSrc": "skills/java.png"
   },
   {
-    "title": "Python",
-    "imageSrc": "skills/python.png"
+    "title": "Spring Boot",
+    "imageSrc": "skills/springboot.png"
   }
 ]

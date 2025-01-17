@@ -1,42 +1,42 @@
 [
   {
-    "title": "eBook Application",
+    "title": "Vegaahi IT PVT LTD",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to use only one platform for eBooks where you can buy, sell, purchase, and also read .",
-    "skills": ["PHP", "JavaScript", "Bootstrap", "jQuery"],
-    "demo": "",
-    "source": "https://github.com/msk00007/myproject_repo"
+    "description": "This is a project made to build offcial webiste. It build using pure reactsjs and bootstrap for styling",
+    "skills": ["HTML ", "CSS", "Bootstrap", "React"],
+    "demo": "https://vegaahi.com/"
+    
   },
   {
-    "title": "The Simon Game",
+    "title": "Towner Solutions Pvt Ltd",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to build the famous simon game. It build using pure JavaScript and plain CSS and HTML",
-    "skills": ["HTML ", "CSS", "JavaScript"],
-    "demo": "https://msk00007.github.io/simon_game_project/",
-    "source": "https://github.com/msk00007/simon_game_project"
+    "description": "designed admin dashboard using figma for Towner solutions pvt ltd",
+    "skills": ["Figma", "UI/UX", "Designing"],
+    "demo": "https://towner.taxi/"
+    
+  },
+  {
+    "title": "helan homeopathy",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to use only one platform for eBooks where you can buy,chapter or monthly subscription .",
+    "skills": ["springboot", "React", "Bootstrap", "MySQL"],
+    "demo": "http://haelanhomeopathy.com/"
+    
   },
   {
     "title": "Weather Application",
     "imageSrc": "projects/project.png",
     "description": "Crafted a sleek weather app with real-time data from OpenWeatherMap and GeoDB Cities APIs. Responsive design,with 5 days forcast",
     "skills": ["React", " API's", "CSS"],
-    "demo": "https://msk-weather-application.netlify.app/",
-    "source": "https://github.com/msk00007/weatherApplication"
+    "demo": "",
+    "source": ""
   },
   {
-    "title": "One Page Calander",
-    "imageSrc": "projects/project.png",
-    "description": "one page calander which gives complete year dates in single page based on the input",
-    "skills": ["HTML ", "CSS", "JavaScript"],
-    "demo": "https://msk00007.github.io/onePageCalander/",
-    "source": "https://github.com/msk00007/onePageCalander"
-  },
-  {
-    "title": "simple quiz app",
+    "title": "news application",
     "imageSrc": "projects/project.png",
     "description": "sample quiz application using php basically demo about how MySQL connects, operations, and how session stores values and use them",
-    "skills": ["HTML ", "CSS", "PHP", "MySQL"],
-    "demo": "https://www.quizappmsk.infinityfreeapp.com/",
-    "source": "https://github.com/msk00007/quizapp/"
+    "skills": ["HTML ", "CSS", "Bootstrap", "React"],
+    "demo": "",
+    "source": ""
   }
 ]
